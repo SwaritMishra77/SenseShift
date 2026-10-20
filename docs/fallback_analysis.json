@@ -1,0 +1,26 @@
+[
+  {
+    "seed": 11,
+    "watch_specific_minus_transferred_rf": 0.36322513280085406,
+    "subject_bootstrap_95_interval": [
+      0.24758776029834517,
+      0.44060958776009695
+    ]
+  },
+  {
+    "seed": 23,
+    "watch_specific_minus_transferred_rf": 0.39847866678923494,
+    "subject_bootstrap_95_interval": [
+      0.2843554154710918,
+      0.46065208055808604
+    ]
+  },
+  {
+    "seed": 37,
+    "watch_specific_minus_transferred_rf": 0.2514854320716011,
+    "subject_bootstrap_95_interval": [
+      0.21602696117188525,
+      0.29001455915835317
+    ]
+  }
+]
